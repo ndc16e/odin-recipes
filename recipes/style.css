@@ -1,0 +1,17 @@
+h1 {
+    color: navy; font-family: "Courier New"; font-weight: 800; background-color: lime;
+}
+p  {
+    font-family: 'Courier New', Courier, monospace; color: brown; background-color: orange;
+}
+ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: mediumslateblue; background-color: mediumspringgreen; font-weight: 600; font-size: 14px;
+}
+.steps {
+        background-color: grey;
+}
+.steps .list {
+    font-weight: 800;
+    color: pink;
+}
